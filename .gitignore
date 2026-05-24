@@ -1,0 +1,3 @@
+*.automacao.db
+*.data.py
+*.env
